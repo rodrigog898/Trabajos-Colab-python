@@ -5,6 +5,7 @@ Trabajos realizados con Jupyter notebook para disintos casos
 Prediccion del Clima
 se extrae el csv de kaggle para hacer un estudio de los climas de australia donde se estudia en especifico la ciudad de perth para poder predecir la lluvia
 en este caso pusimos para un dia en especifico y comparamos el porcentaje con https://weather.com/ dandonos el mismo resultado.
+
 ![clima 26052023](https://github.com/rodrigog898/Trabajos-Colab-python/assets/82234888/70fea77c-bdd3-4723-9cb9-155f46d7d216)
 ![probabilidad de lluvia](https://github.com/rodrigog898/Trabajos-Colab-python/assets/82234888/a66d057a-663b-493e-b8b0-51d1822c7ce9)
 
